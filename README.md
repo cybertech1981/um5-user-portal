@@ -1,5 +1,7 @@
 # UM5 User Portal
 
+![UM5 User Portal](docs/banner.png)
+
 A clean, modern, **multilingual (Persian / English / Turkish)** self-service portal
 for **MikroTik User Manager v5** — the page your customers see at `http://<router>/um/`.
 
@@ -7,7 +9,16 @@ Built by [Amir Echo Tech](https://amirechotech.ca/). It replaces only the look a
 feel; it talks to the **same User Manager API** as the stock portal, so there is no
 server to run and nothing new to maintain.
 
-![Dashboard](docs/dashboard-fa.png)
+## Screenshots
+
+| Persian (RTL) | English |
+|---|---|
+| ![Dashboard — Persian](docs/portal-fa.png) | ![Dashboard — English](docs/portal-en.png) |
+
+| English — dark | Turkish — mobile |
+|---|---|
+| ![Dashboard — dark](docs/portal-en-dark.png) | <img src="docs/portal-tr-mobile.png" width="260" alt="Mobile — Turkish"> |
+
 
 ## Features
 

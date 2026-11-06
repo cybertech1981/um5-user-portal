@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.1 — 2026-11
+- README: banner and screenshots in all three languages.
+
 ## 1.2.0 — 2026-11
 - "About" page with developer credit and links (LinkedIn, website, Telegram).
 - Footer with author attribution on every page.

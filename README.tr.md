@@ -1,5 +1,7 @@
 # UM5 Kullanıcı Paneli
 
+![UM5 User Portal](docs/banner.png)
+
 **MikroTik User Manager v5** için temiz, modern ve **çok dilli (Farsça / İngilizce /
 Türkçe)** self-servis paneli — müşterilerinizin `http://<router>/um/` adresinde
 gördüğü sayfa.
@@ -16,6 +18,16 @@ bir sunucu yoktur.
 - Panel (kullanım, aktif paket, kalan süre), paketlerim ve etkinleştirme, oturum
   geçmişi, ödemeler ve paket mağazası.
 - **Bağımsız**: Vazirmatn yazı tipi gömülüdür; harici CDN yok.
+
+## Ekran görüntüleri
+
+| Farsça (RTL) | İngilizce |
+|---|---|
+| ![Panel — Farsça](docs/portal-fa.png) | ![Panel — İngilizce](docs/portal-en.png) |
+
+| İngilizce — koyu | Türkçe — mobil |
+|---|---|
+| ![Koyu tema](docs/portal-en-dark.png) | <img src="docs/portal-tr-mobile.png" width="260" alt="Mobil — Türkçe"> |
 
 ## Router'a kurulum
 
